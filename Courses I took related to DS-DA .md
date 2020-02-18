@@ -1,8 +1,18 @@
 # Courses I took related to DS/DA 
 With certificates attached.
 
-# Specializations:
-## Deep Learning Specialization: 
+- [Specializations:](#specializations)
+  * [Deep Learning Specialization:](#deep-learning-specialization)
+  * [Tensorflow in Practice](#tensorflow-in-practice)
+  * [Applied Data Science](#applied-data-science)
+  * [pwc Data analytics](#pwc-data-analytics)
+- [DataCamp Python Data scientist](#datacamp-python-data-scientist)
+- [BitTiger data scientist mastery program](#bittiger-data-scientist-mastery-program)
+- [Stand-alone courses](#stand-alone-courses)
+
+
+# Specializations
+## Deep Learning Specialization
 ![deeplearning specialization](https://i.imgur.com/T46PSfC.jpg)
 
 * Structuring Machine Learning Projects
