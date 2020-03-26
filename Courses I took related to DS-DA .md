@@ -6,8 +6,9 @@ With certificates attached.
 - [Industry Traning:](#Industry training completed)
   * Apache Spark Programming
 - [Specializations:](#specializations)
+  * [MIT Computational Thinking using Python](#)
   * [Deep Learning Specialization:](#deep-learning-specialization)
-  * [Tensorflow in Practice](#tensorflow-in-practice)
+  * [Tensorflow in Practice](##tensorflow-in-practice)
   * [Applied Data Science](#applied-data-science)
   * [pwc Data analytics](#pwc-data-analytics)
 - [DataCamp Python Data scientist](#datacamp-python-data-scientist)
@@ -16,8 +17,16 @@ With certificates attached.
 
 # Industry training completed
 * Apache Spark Programming 
-  ![DB105](./certificate/image/DB105.png)
+![DB105](./certificate/image/DB105.png)
+
 # Specializations
+
+## MITx XSeries Program -- Computational Thinking using Python
+* Introduction to Computer Science and Programming Using Python
+![6.00.1x](./certificate/image/MITx 6.00.1x.png)
+
+
+
 ## Deep Learning Specialization
 ![deeplearning specialization](https://i.imgur.com/T46PSfC.jpg)
 
