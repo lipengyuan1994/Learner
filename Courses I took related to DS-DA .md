@@ -3,12 +3,12 @@
 # Trainings I completed related to DS/DA 
 With certificates attached.
 
-- [Industry Traning:](#Industry training completed)
-  * Apache Spark Programming
-- [Specializations:](#specializations)
-  * [MIT Computational Thinking using Python](#)
-  * [Deep Learning Specialization:](#deep-learning-specialization)
-  * [Tensorflow in Practice](##tensorflow-in-practice)
+- [Industry training completed](#industry-training-completed)
+  * [Apache Spark Programming](#apache-spark-programming)
+- [Specializations](#specializations)
+  * [MITx XSeries Program -- Computational Thinking using Python](#mitx-xseries-program----computational-thinking-using-python)
+  * [Deep Learning Specialization](#deep-learning-specialization)
+  * [Tensorflow in Practice](#tensorflow-in-practice)
   * [Applied Data Science](#applied-data-science)
   * [pwc Data analytics](#pwc-data-analytics)
 - [DataCamp Python Data scientist](#datacamp-python-data-scientist)
@@ -16,14 +16,16 @@ With certificates attached.
 - [Stand-alone courses](#stand-alone-courses)
 
 # Industry training completed
-* Apache Spark Programming 
-![DB105](./certificate/image/DB105.png)
+## Apache Spark Programming 
+![DB105](https://i.imgur.com/t2QkjM3.png)
+
 
 # Specializations
 
 ## MITx XSeries Program -- Computational Thinking using Python
 * Introduction to Computer Science and Programming Using Python
-![6.00.1x](./certificate/image/MITx 6.00.1x.png)
+![MITx 6.00.1x](https://i.imgur.com/zdakJql.png)
+
 
 
 
