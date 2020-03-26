@@ -1,6 +1,10 @@
-# Courses I took related to DS/DA 
+
+
+# Trainings I completed related to DS/DA 
 With certificates attached.
 
+- [Industry Traning:](#Industry training completed)
+  * Apache Spark Programming
 - [Specializations:](#specializations)
   * [Deep Learning Specialization:](#deep-learning-specialization)
   * [Tensorflow in Practice](#tensorflow-in-practice)
@@ -10,7 +14,9 @@ With certificates attached.
 - [BitTiger data scientist mastery program](#bittiger-data-scientist-mastery-program)
 - [Stand-alone courses](#stand-alone-courses)
 
-
+# Industry training completed
+* Apache Spark Programming 
+  ![DB105](./certificate/image/DB105.png)
 # Specializations
 ## Deep Learning Specialization
 ![deeplearning specialization](https://i.imgur.com/T46PSfC.jpg)
